@@ -1,0 +1,38 @@
+2023-11-28 13:52:50,828 DEBUG c.a.r.Main [main] debug
+2023-11-28 13:52:50,829 INFO c.a.r.Main [main] info
+2023-11-28 13:52:50,829 WARN c.a.r.Main [main] warning
+2023-11-28 13:52:50,830 ERROR c.a.r.Main [main] error
+2023-11-28 13:52:52,002 INFO c.a.r.Main [main] SearchResponse: {"took":0,"timed_out":false,"_shards":{"failed":0.0,"successful":1.0,"total":1.0,"skipped":0.0},"hits":{"total":{"relation":"eq","value":0},"hits":[],"max_score":null}}
+2023-11-28 15:06:22,110 INFO c.a.r.Main [main] SearchResponse: {"took":0,"timed_out":false,"_shards":{"failed":0.0,"successful":1.0,"total":1.0,"skipped":0.0},"hits":{"total":{"relation":"eq","value":0},"hits":[],"max_score":null}}
+------
+2023-11-28 21:19:34,946 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:19:35,010 INFO c.a.r.s.PersonServiceImpl [main] Document created with generated id: null
+2023-11-28 21:19:35,789 DEBUG c.a.r.esServicesTest [main] Saved document: Person(idNumber=QsPNF4wBeoXhJHhCPXio, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:19:35,810 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:19:35,810 INFO c.a.r.s.PersonServiceImpl [main] Document created with provided id: 1701206375810
+2023-11-28 21:19:35,864 DEBUG c.a.r.esServicesTest [main] Saved document: Person(idNumber=1701206375810, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:19:35,866 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:19:35,866 INFO c.a.r.s.PersonServiceImpl [main] Document created with provided id: 1701206375866
+2023-11-28 21:19:36,119 INFO c.a.r.s.PersonServiceImpl [main] Index created: person_1701206375923
+2023-11-28 21:22:27,696 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:22:27,758 INFO c.a.r.s.PersonServiceImpl [main] Document created with generated id: null
+2023-11-28 21:22:28,534 DEBUG c.a.r.esServicesTest [main] Saved document: Person(idNumber=ee7PF4wB2gY46afT4LR3, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:22:28,554 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:22:28,555 INFO c.a.r.s.PersonServiceImpl [main] Document created with provided id: 1701206548554
+2023-11-28 21:22:28,617 DEBUG c.a.r.esServicesTest [main] Saved document: Person(idNumber=1701206548554, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:22:28,619 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:22:28,619 INFO c.a.r.s.PersonServiceImpl [main] Document created with provided id: 1701206548619
+2023-11-28 21:22:28,873 INFO c.a.r.s.PersonServiceImpl [main] Index created: person_1701206548686
+2023-11-28 21:23:08,387 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:23:08,434 INFO c.a.r.s.PersonServiceImpl [main] Document created with generated id: null
+2023-11-28 21:23:08,914 DEBUG c.a.r.esServicesTest [main] Saved document: Person(idNumber=eu7QF4wB2gY46afTfrQ_, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:23:08,935 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:23:08,936 INFO c.a.r.s.PersonServiceImpl [main] Document created with provided id: 1701206588935
+2023-11-28 21:23:08,995 DEBUG c.a.r.esServicesTest [main] Saved document: Person(idNumber=1701206588935, fullName=Name 0 Surname 0, age=18)
+2023-11-28 21:23:08,998 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+------
+2023-11-28 22:15:23,388 INFO c.a.r.s.PersonServiceImpl [main] Index created: person_1701209722498
+2023-11-28 22:15:23,464 DEBUG c.a.r.esServicesTest [main] Created person: Person(idNumber=0, fullName=Name 0 Surname 0, age=18)
+2023-11-28 22:15:23,470 INFO c.a.r.s.PersonServiceImpl [main] Document created with provided id: 1701209723464
+2023-11-28 22:15:23,680 DEBUG c.a.r.esServicesTest [main] Saved document: Person(idNumber=1701209723464, fullName=Name 0 Surname 0, age=18)
+2023-11-28 22:15:23,817 DEBUG c.a.r.esServicesTest [main] Person in 1701209723464 index found : Person(idNumber=1701209723464, fullName=Name 0 Surname 0, age=18)
